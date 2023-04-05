@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "dccServoDecoder.kicad_pro",
+    "filename": "DCC_LNET_BASE.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -437,16 +437,8 @@
       "DCC"
     ],
     [
-      "45494ccf-e11b-46ac-be40-4805ae811a8e",
-      "power"
-    ],
-    [
-      "fe66ca9b-c774-4d7a-9048-4fe7d48f8ac0",
-      "servo"
-    ],
-    [
-      "6eb19aa1-4fb2-4c69-9e6c-bb2ea1f15a68",
-      "relay"
+      "ab851e10-6952-453a-94c1-2661101c520a",
+      "voltageRegulator"
     ],
     [
       "3f6d5bd9-4904-46e2-b154-edfbdaf554bc",
